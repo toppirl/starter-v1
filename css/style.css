@@ -17,20 +17,27 @@
      --fw-regular: 400;
      --fw-bold: 700;
 
-     --fs-headline-2: 11rem;
-     --fs-headline-3: 8rem;
+     --fs-300: 1.8rem;
+     --fs-400: 2rem;
+     --fs-500: 3rem;
+     --fs-600: 4rem;
+     --fs-800: 8rem;
+     --fs-900: 11rem;
 
-     --fs-title-1: 4rem;
-     --fs-title-2: 3rem;
-     --fs-title-3: 1.8rem;
+     --fs-headline-2: var(--fs-900);
+     --fs-headline-3: var(--fs-800);
 
-     --fs-link-1: 3rem;
-     --fs-link-2: 1 .8rem;
-     --fs-link-3: 1.8rem;
+     --fs-title-1: var(--fs-600);
+     --fs-title-2: var(--fs-500);
+     --fs-title-3: var(--fs-300);
 
-     --fs-button-1: 1.8rem;
+     --fs-link-1: var(--fs-500);
+     --fs-link-2: var(--fs-300);
+     --fs-link-3: var(--fs-300);
 
-     --fs-paragraph-1: 2rem;
+     --fs-button-1: var(--fs-300);
+
+     --fs-paragraph-1: var(--fs-400);
 
 }
 
